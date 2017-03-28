@@ -1,0 +1,1 @@
+100, A deposit of 50 was made, 150, A deposit of 100 was made, 250, You lost the lotto. A withdrawl of 1 was made, 249, You lost the lotto. A withdrawl of 1 was made, 248
