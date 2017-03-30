@@ -120,6 +120,14 @@ function callback() {
 			cat.play();
 			callback();
 		}
+		else if (result.command == "dog.increaseAge") {
+			dog.increaseAge();
+			callback();
+		}
+		else if (result.command == "cat.increaseAge") {
+			cat.increaseAge();
+			callback();
+		}
 		else if (result.command == "dog.goOutside") {
 			dog.goOutside();
 			callback();
